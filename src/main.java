@@ -1,5 +1,5 @@
 import static java.lang.Math.ceil;
-
+// PIZDEC ETO EBALA
 public class main {
     public static void main(String[] args) {
        double [] max = new double[8];
